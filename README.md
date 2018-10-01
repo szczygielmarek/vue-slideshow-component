@@ -2,7 +2,6 @@
 Vue Slideshow Component
 
 ```javascript
-<script>
 import { Slideshow } from 'vue-slideshow-component/src/index';
 
 export default {
